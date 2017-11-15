@@ -5,7 +5,7 @@
 <!-- /BADGES -->
 
 ## 介绍
-爬取http://piaofang.maoyan.com/?ver=normal中的票房信息。使用了tesseract来识别css自定义字体中的数字。
+爬取 http://piaofang.maoyan.com/?ver=normal 中的票房信息。使用了tesseract来识别css自定义字体中的数字。
 
 项目博客地址：http://www.dzc.me/2017/10/%E5%9F%BA%E4%BA%8Eocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E7%9A%84%E7%88%AC%E8%99%AB%E9%A1%B9%E7%9B%AE/
 
